@@ -1,6 +1,11 @@
-# Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub.
-
- Repositório criado durante uma aula ao vivo!
+# Hellow World!
+### Primeiro repositório do __*curso de Git e GitHub.*__
  
- Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
+ Repositório criado durante uma *aula ao vivo!*
+ ___
+ Essa linha eu adicionei diretamente no site!, **QUE IMPRESSIONANTE!**
+ 
+ ## Meus estudos são:
+ 
+ 1. Javascript basico (agora estou fazendo um curso de **javacript e TypeScript** completo.
+ 0. Estudei um pouco de _**Python**_
