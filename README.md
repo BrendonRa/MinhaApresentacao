@@ -1,5 +1,5 @@
 # Hellow World!
-### Primeiro repositório do __*curso de Git e GitHub.*__
+### Esse é o meu primeiro repositório do __*curso de Git e GitHub.*__
  
  Repositório criado durante uma *aula ao vivo!*
  ___
